@@ -25,19 +25,20 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">- 💙 Passionate about building beautiful and functional mobile apps<br>- 📱 Specialized in **Flutter** for Android & iOS<br>- ☁️ Experience with **Firebase**, **Appwrite**, and **REST APIs**<br>- ⚡ Skilled in **GetX**, **Bloc**, and clean code principles<br>- 🧪 Love experimenting with new technologies<br>- 🎯 Always learning & improving</p>
+<p align="left">
+- 💙 Passionate about building beautiful and functional mobile apps<br>
+- 📱 Specialized in **Flutter** for Android & iOS<br>
+- ☁️ Experience with **Firebase**, **Appwrite**, and **REST APIs**<br>
+- ⚡ Skilled in **GetX**, **Bloc**, and clean code principles<br>
+- 🧪 Love experimenting with new technologies<br>
+- 🎯 Always learning & improving
+</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
 <p align="left">Language 👩‍💻</p>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
@@ -53,8 +54,6 @@
 
 <p align="left">Tools ⚒️</p>
 
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="30" alt="androidstudio logo"  />
   <img width="16" />
@@ -69,8 +68,6 @@
 
 <p align="left">Frameworks 📲</p>
 
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="30" alt="android logo"  />
   <img width="16" />
@@ -80,8 +77,6 @@
 ###
 
 <p align="left">Backend 👩‍💻</p>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
@@ -97,19 +92,50 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🛍️  My Projects</h3>
+
+<div align="left">
+
+### 📦 <a href="https://github.com/balsamsrhan/e_commerce_app" target="_blank">E-Commerce App (Flutter)</a>
+
+<p>
+An advanced and modern E-Commerce mobile application built with **Flutter**, supporting product browsing, cart system, favorites, checkout, authentication, and real-time data handling.  
+The app focuses on clean UI, high performance, and a smooth shopping experience.
+</p>
+
+
+
+#### ⭐ Features:
+- 🛒 Browse products by categories  
+- 🔍 Smart product search  
+- ❤️ Wishlist (Favorites)  
+- 🧺 Dynamic cart with quantity & total calculation  
+- 👤 User login & register  
+- 📦 Orders & order tracking  
+- 🔄 Real-time updates (Firebase / API)  
+- 🌙 Light & Dark mode  
+- 🎨 Modern, clean UI with animations  
+
+#### 🛠️ Tech Stack:
+- **Flutter**  
+- **Dart**  
+- **GetX / Bloc** (state management)  
+- **Firebase / REST API**  
+- **Clean Architecture**  
+
+---
+
+</div>
 
 ###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=balsamsrhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balsamsrhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balsamsrhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
